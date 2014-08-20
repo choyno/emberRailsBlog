@@ -9,4 +9,4 @@
 
 # Make sure your secret_key_base is kept private
 # if you're sharing your code publicly.
-EmberRailsBlog::Application.config.secret_key_base = 'ddcd6ac1ad9b55899aaab213d44169678913bdb4690373e75d52fcb8c63ec644c735ed189de7f4bf053ef46490ed5d52e8c4275227cb40cda753805dd3713eb8'
+EmberRailsBlog::Application.config.secret_key_base = '08d461ec698322244da30a1661e330c09a5d7f19c70d666a9e921af09629de22c49cb8148038e2fbd37c6fad1b9d479371a96cd570444a6ed61d68b90ca3bbf8'
