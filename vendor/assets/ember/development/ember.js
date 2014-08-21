@@ -1,5 +1,5 @@
 // Fetched from channel: release, with url http://builds.emberjs.com/release/ember.js
-// Fetched on: 2014-08-20T05:38:28Z
+// Fetched on: 2014-08-20T18:47:38Z
 /*!
  * @overview  Ember - JavaScript Application Framework
  * @copyright Copyright 2011-2014 Tilde Inc. and contributors
@@ -7,7 +7,7 @@
  *            Portions Copyright 2008-2011 Apple Inc. All rights reserved.
  * @license   Licensed under MIT license
  *            See https://raw.github.com/emberjs/ember.js/master/LICENSE
- * @version   1.7.0
+ * @version   1.7.1+pre.c1ec09ad
  */
 
 (function() {
@@ -13003,7 +13003,7 @@ define("ember-metal/core",
 
       @class Ember
       @static
-      @version 1.7.0
+      @version 1.7.1+pre.c1ec09ad
     */
 
     if ('undefined' === typeof Ember) {
@@ -13030,10 +13030,10 @@ define("ember-metal/core",
     /**
       @property VERSION
       @type String
-      @default '1.7.0'
+      @default '1.7.1+pre.c1ec09ad'
       @static
     */
-    Ember.VERSION = '1.7.0';
+    Ember.VERSION = '1.7.1+pre.c1ec09ad';
 
     /**
       Standard environmental variables. You can define these in a global `EmberENV`
